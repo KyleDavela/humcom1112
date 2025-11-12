@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(96, 202, 149);
+    display: block;
+    margin: auto;
+    width: 800px;
+}
+header {
+    background-image: url('Lions\ Head.jpg'); /* Replace with your image path */
+    background-size: cover; /* Adjusts image size to cover the container */
+    background-position: center; /* Centers the background image */
+    padding: 20px; /* Adds space around the text */
+    color: #dabf29; /* Sets text color for readability against the background */
+    font-family: sans-serif;
+} 
+nav {
+    padding: 8px;
+    text-decoration: none;
+}
+#home {
+
+}
+li {
+    list-style: none;
+    text-align: center;
+}
+img {
+    width:100%;
+}
