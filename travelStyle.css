@@ -9,8 +9,9 @@ header {
     background-size: cover; /* Adjusts image size to cover the container */
     background-position: center; /* Centers the background image */
     padding: 20px; /* Adds space around the text */
-    color: #dabf29; /* Sets text color for readability against the background */
+    color: #08dcf8; /* Sets text color for readability against the background */
     font-family: sans-serif;
+     text-shadow: 2px 2px #002fff;
 } 
 li {
     list-style: none;
@@ -18,6 +19,9 @@ li {
     font-size: 20px;
     background-color: aquamarine;
     padding: 8px;
+}
+#food {
+    
 }
 img {
     width:100%;
